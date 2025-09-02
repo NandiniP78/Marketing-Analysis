@@ -29,6 +29,16 @@ This project integrates both **structured** and **unstructured** marketing data 
 
 <img width="1502" height="736" alt="Screenshot 2025-09-02 201712" src="https://github.com/user-attachments/assets/ad7bb29d-8ae0-4fd9-ae17-77406dd66e96" />
 
+## Dashboard
+<img width="1338" height="719" alt="Screenshot 2025-09-02 202252" src="https://github.com/user-attachments/assets/3adbf670-e26e-4a8f-ade7-525326c6c2e4" />
+<img width="1347" height="726" alt="Screenshot 2025-09-02 202309" src="https://github.com/user-attachments/assets/873b18f3-2c4e-4c7d-9778-33d567d9ff33" />
+<img width="1357" height="723" alt="Screenshot 2025-09-02 202325" src="https://github.com/user-attachments/assets/650db2ac-5bdd-4632-9c4f-e768a37446e5" />
+<img width="1348" height="727" alt="Screenshot 2025-09-02 202356" src="https://github.com/user-attachments/assets/c75decf1-3404-4dec-a5cb-98575820542a" />
+
+
+
+
+
 
 
 
