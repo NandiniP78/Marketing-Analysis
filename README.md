@@ -1,6 +1,9 @@
 ##  Background & Overview  
 Marketing data is often spread across multiple systems—customer records, product catalogs, engagement logs, and unstructured reviews. To unify this data, the project builds a **star-schema marketing data warehouse** in SQL Server, applies **sentiment analysis** on customer reviews using Python, and integrates results into a **Power BI dashboard** for interactive insights.  
 
+## Business Problem
+ShopEasy, an online retail business, is facing reduced customer engagement and conversion rates despite launching several new online marketing campaigns. They want to conduct a detailed analysis and identify areas for improvement in their marketing strategies.
+
 The pipeline includes:  
 - **SQL Server** → Fact & dimension tables for structured data.  
 - **Python (NLP)** → Sentiment classification of customer reviews.  
